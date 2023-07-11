@@ -72,8 +72,7 @@ describe("Model based test", () => {
             cy.findByRole("button", { name: /Enviar/i }).click();
           },
           // ESC: () => {
-          //   cy.get("body").type("{esc}");
-          //   cy.get("body").type("{esc}");
+          //   cy.realPress("{esc}");
           // },
         },
       });

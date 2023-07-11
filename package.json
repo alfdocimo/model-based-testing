@@ -12,6 +12,7 @@
   "dependencies": {
     "@xstate/test": "^1.0.0-alpha.1",
     "autoprefixer": "10.4.14",
+    "cypress-real-events": "^1.8.1",
     "eslint": "8.44.0",
     "eslint-config-next": "13.4.9",
     "next": "13.4.9",
